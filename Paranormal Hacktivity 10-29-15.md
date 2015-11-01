@@ -1,6 +1,3 @@
-# historian
-A record/analysis of MellonHeads events
-
 ## Paranormal Hacktivity
 - Event was held before halloweekend. Our second official event, October 29th
 - Ideas about another event around October 13th
@@ -20,4 +17,3 @@ A record/analysis of MellonHeads events
 
 - We had signup sheets for us to keep track who came here, but not many people used it
 	- Perhaps we should have an electronic signup sheet like scottylabs?
-
