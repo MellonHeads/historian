@@ -1,5 +1,6 @@
 ## Paranormal Hacktivity
 ### Timeline
+- Date: 10/29, Location: WEH 6403 
 - Our second official event was held before halloweekend.
 - Ideas about another event around October 13th
 - Heap sponorship confirmed October 21st
