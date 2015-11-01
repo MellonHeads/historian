@@ -1,19 +1,17 @@
 ## Paranormal Hacktivity
-- Event was held before halloweekend. Our second official event, October 29th
+### Timeline
+- Our second official event was held before halloweekend.
 - Ideas about another event around October 13th
 - Heap sponorship confirmed October 21st
 - Facebook event/graphics done October 26th
 
+### Overview
 - Sponsored by Heap rather an Expii, the plug was to send Heap with the subject “paranormal” for an interview
 - Not that many people in the beginning, people started flowing in, but we only had a couple of costumes
 - A big success, the watermelon suit was great, hail to Avi
 - Bringing in the Oculus Rift and the Leap motion was a great idea, perhaps we can bring more hackathon related cool stuff
 	- Perhaps we can bring a different hardware each time and teach people how to use it...like how to develop with a Kinect, how to develop with Leap, etc.
 - About 50 people came and went. Participation was mainly due to Mellonheads members personally inviting people. Shef brought 8 people from Pitt, Wilson brought 3 of his friends, Avi brought a couple people, etc. Turnout was great and popping.
-
-
 - We ordered the same amount of food as last time, 4 King Kong Pizzas and bottles of soda. The food, unlike last time, was not finished instantly, we had a small amount of leftovers. 
-
-
 - We had signup sheets for us to keep track who came here, but not many people used it
 	- Perhaps we should have an electronic signup sheet like scottylabs?
