@@ -23,7 +23,6 @@
     
 ### What we learned
 - The event info was released a bit late. That means we have to plan events at least 3 weeks in advance, and release information 2 weeks in advance.
-- item
-- item
+- Bring friends, be more open, we want everyone to feel like they're part of the community.
 
 
