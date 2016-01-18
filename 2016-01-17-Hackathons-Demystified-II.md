@@ -3,12 +3,24 @@
 - Date: 1/17, 6:30-8 PM, Location: Doherty A302
 - Our second official event of Spring 2015
 - Facebook event: created on on 1/12/15. 
-- Interested: _, Attended: _, Invited: _
-- Actual Attendance: _
+- Interested: 80, Attended: 46, Invited: 558
+- Actual Attendance:_
 
 ### Overview
-- The Leap Motion and Oculus rift didn't attract a lot of people, wasn't setup correctly(?) The room was too sparse, not enough publicity?
-- Showcased a couple of demos of cool stuff built by Mellonheads during Winter Break:
+- We had a new system for this hackathons demystified, to make this a lot more interactive
+- Each person grabs a hackathon cheatsheet that has a number on the sheet, reserved for the raffle
+- Each person would grab a post-it and post a question to the board, to be answered in a Q and A session later
+- Avi did an intro on Mellonheads
+- Showed hype videos for PennApps and MHacks
+- Caroline presented "Balancing Schoolwork and Hackathons" with real-life examples
+- Q and A session was a tad long but a had lot of valuable information, lost a bit of steam towards the end
+- We prewrote the questions and grouped similar questions together...we should consolidate all of the questions and answers into a FAQ
+- At 7:40, broke out into teams. Assigned the last #s of the cheatsheet to randomly chosen words from the science.pdf list
+- Groups of 6/7, got team names, ideas, and choose someone to pitch the idea to the rest of the class
+- Showcased a couple of demos of cool stuff built by Mellonheads during Winter
+- 7 Teams, with Adult, Circus, Eyes, Roof, Sandwich (was the best)
+- Sandwich 
+Break:
 	- Avi's Meeting Minutes for his fraternity, built in a nifty new Javascript framework. Built in less than 500 lines of code.
     - Wilson presented a web-interfaced torrenting client, hosted on a Digital Ocean Droplet, and syncing files with rsync.
     - John Pascoe presented his auto-door opener to combat his lack of keys. It was worked great until it broke.
