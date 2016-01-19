@@ -1,4 +1,4 @@
-## Hack To School
+## Hackathons Demystified II
 ### Timeline
 - Date: 1/17, 6:30-8 PM, Location: Doherty A302
 - Our second official event of Spring 2015
@@ -32,4 +32,3 @@
 - Barely people left in the middle of the presentation. 
 - Event was pretty engaging, but could've better
 - The handouts were an amazing idea...we should compile everything and post on our website!
-
